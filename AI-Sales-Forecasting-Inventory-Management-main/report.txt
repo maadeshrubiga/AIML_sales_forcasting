@@ -1,0 +1,15 @@
+PROJECT REPORT
+
+Title: Smart Retail Sales Forecasting System
+
+Objective:
+To predict future sales and optimize inventory using ML and RL.
+
+Modules:
+1. ARIMA - statistical forecasting
+2. LSTM - deep learning forecasting
+3. RL - inventory decision system
+4. Streamlit - user interface
+
+Conclusion:
+System improves decision making in retail.
